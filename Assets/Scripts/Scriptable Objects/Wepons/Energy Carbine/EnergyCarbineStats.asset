@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c8e2f7f45032745b0ab77882517a5e, type: 3}
+  m_Name: EnergyCarbineStats
+  m_EditorClassIdentifier: 
+  Name: Energy Carbine
+  FireRate: 0.1
+  CoolDownTime: 4
+  ProjectileSpeed: 50
+  BulletSpread: 0.3
+  ClipSize: 30
+  PrimaryProjectile: {fileID: 3132256157110433184, guid: aeddf365f4e53bf48b49923e7cb6cb71,
+    type: 3}
+  MuzzleFlash: {fileID: 2336091311603269980, guid: 8abe71ce36a460a4cb4aafe3fdea63fe,
+    type: 3}
+  FireSounds: []

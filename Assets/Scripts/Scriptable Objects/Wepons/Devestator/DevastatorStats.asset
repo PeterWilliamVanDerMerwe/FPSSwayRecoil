@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c8e2f7f45032745b0ab77882517a5e, type: 3}
+  m_Name: DevastatorStats
+  m_EditorClassIdentifier: 
+  Name: Devastator
+  FireRate: 0.2
+  CoolDownTime: 3
+  ProjectileSpeed: 75
+  BulletSpread: 0.2
+  ClipSize: 8
+  PrimaryProjectile: {fileID: 3132256157110433184, guid: 2a6d53dce34f7b0458f6ae49efb99a31,
+    type: 3}
+  MuzzleFlash: {fileID: 191028, guid: 44b3eb1ae6c8e8140aa1f83bd18e8607, type: 3}
+  FireSounds: []
